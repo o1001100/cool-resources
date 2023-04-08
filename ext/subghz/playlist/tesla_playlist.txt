@@ -1,0 +1,5 @@
+# Tesla Playlist
+sub: /ext/subghz/Vehicles/Tesla/315MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+sub: /ext/subghz/Vehicles/Tesla/315MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
+sub: /ext/subghz/Vehicles/Tesla/433.92MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+sub: /ext/subghz/Vehicles/Tesla/433.92MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
